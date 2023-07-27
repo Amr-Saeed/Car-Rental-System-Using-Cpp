@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1690334751 source:c:\users\amrs8\desktop\hackerrank\c\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<stdlib.h>
+	<unistd.h>
+	<dos.h>
+	<iomanip>
+
